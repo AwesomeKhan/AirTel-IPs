@@ -1,0 +1,4 @@
+# AirTel Indian IPs v4
+# Source: https://ipinfo.io/AS9498
+
+103.147.90.0/24
